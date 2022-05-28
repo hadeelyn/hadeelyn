@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadeelyn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer & Systems programing
+- 🌱 I’m currently learning Computer & Systems Engineering
 - 💞️ I’m looking to collaborate on software development team
 - 📫 How to reach me hadeelyousuf3@gmail.com
 
