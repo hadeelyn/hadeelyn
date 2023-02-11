@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hadeelyn
 - 👀 I’m interested in coding
 - 🌱 I had graduated from Al azhar university major in Computer & Systems Engineering
-- 💞️ I’m looking to collaborate on software development projects
+- 💞️ I’m looking to collaborate on software development projects as a Quality assurance engineer
 - 📫 How to reach me hadeelyousuf3@gmail.com
 
 <!---
